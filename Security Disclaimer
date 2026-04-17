@@ -1,0 +1,11 @@
+## Security Disclaimer
+
+This software is provided for educational and research purposes.
+
+It performs system-level monitoring and may:
+- read sensitive system information
+- terminate processes
+- modify firewall rules (if enabled)
+- interact with system services
+
+Use at your own risk. The author is not responsible for damage, data loss, or system instability resulting from use of this software.
